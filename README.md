@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Moch Nazham Ismul Azham!
 
-🎓 Informatics Engineering Student at **Institut Teknologi Garut**  
-🔬 Head of IoT Division at **CV Cipta Muda AI**  
-💡 Passionate in **Machine Learning**, **Data Analysis**, and **IoT Development**
+🎓 Informatics Engineering Student at **Institut Teknologi Garut**    
+💡 Passionate in **Machine Learning**, **Data Analysis** **Data Science**
 
 [![GitHub followers](https://img.shields.io/github/followers/JangAY?label=Follow&style=social)](https://github.com/JangAY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/moch-nazham-ismul-azham-3b7513343)
